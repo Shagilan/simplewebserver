@@ -107,7 +107,8 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-17 081036](https://github.com/user-attachments/assets/7d09af11-530e-4ba0-9f1f-703b5ee5d82e)
+![Screenshot 2025-04-17 081307](https://github.com/user-attachments/assets/02c1c6f6-3e05-456c-b8f8-d3144278d72f)
+
 
 
 
